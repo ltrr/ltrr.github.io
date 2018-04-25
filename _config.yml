@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+repository: "ltrr/ltrr.github.io"
+kramdown:
+  input: GFM
+  hard_wrap: false
+  math_engine: mathjax
+  syntax_highlighter: rouge
